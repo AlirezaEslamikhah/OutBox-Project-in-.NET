@@ -1,0 +1,51 @@
+# Visual Studio / .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+[Ll]og*/
+[Ll]ogs*/
+
+# User- / machine-specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Test results
+[Tt]est[Rr]esults/
+*.trx
+*.coverage*
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Publish / artifacts
+artifacts/
+**/publish/
+*.pubxml
+*.pubxml.user
+*.Publish.xml
+
+# Local DBs
+*.mdf
+*.ldf
+*.ndf
+
+# IIS / ClickOnce
+IISExpress/
+publish/
+*.application
+*.manifest
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

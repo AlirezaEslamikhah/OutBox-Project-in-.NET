@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutBox Project", "OutBox Project.csproj", "{393DC8B4-41E3-4551-ADEB-17D1871692ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393DC8B4-41E3-4551-ADEB-17D1871692ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393DC8B4-41E3-4551-ADEB-17D1871692ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393DC8B4-41E3-4551-ADEB-17D1871692ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393DC8B4-41E3-4551-ADEB-17D1871692ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2859A1B7-EEE1-4E4E-9D3D-871DA214AD73}
+	EndGlobalSection
+EndGlobal

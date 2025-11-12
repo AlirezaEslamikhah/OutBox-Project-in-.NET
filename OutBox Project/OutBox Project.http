@@ -1,0 +1,6 @@
+@OutBox_Project_HostAddress = http://localhost:5136
+
+GET {{OutBox_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

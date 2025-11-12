@@ -5174,11 +5174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox Project\\OutBox Project.csproj",
+      "projectUniqueName": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox-Project-in-.NET\\OutBox Project\\OutBox Project.csproj",
       "projectName": "OutBox Project",
-      "projectPath": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox Project\\OutBox Project.csproj",
+      "projectPath": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox-Project-in-.NET\\OutBox Project\\OutBox Project.csproj",
       "packagesPath": "C:\\Users\\a.eslamikhah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox Project\\obj\\",
+      "outputPath": "C:\\Users\\a.eslamikhah\\source\\repos\\OutBox-Project-in-.NET\\OutBox Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.eslamikhah\\AppData\\Roaming\\NuGet\\NuGet.Config",

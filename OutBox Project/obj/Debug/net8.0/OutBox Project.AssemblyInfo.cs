@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OutBox Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb45b6174c5a1c11b213e4b6d64d8b7f73d31419")]
 [assembly: System.Reflection.AssemblyProductAttribute("OutBox Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OutBox Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

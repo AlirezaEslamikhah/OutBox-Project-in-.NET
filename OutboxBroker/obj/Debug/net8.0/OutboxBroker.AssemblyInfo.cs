@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OutboxBroker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+561d76aba9cc989b444c52fb70ff3cdf36deaaab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86098eb52d154feabb94f0a2dc9cbcd9dc82200a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OutboxBroker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OutboxBroker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,7 @@
 **/obj/
 [Ll]og*/
 [Ll]ogs*/
+**/Migrations/
 
 # User- / machine-specific
 *.suo
